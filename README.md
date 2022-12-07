@@ -14,8 +14,7 @@
 <a href = "mailto:rossanovdrs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-
+![Snake animation](https://github.com/rossanodr/rossanodr/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
   <!-- ![gitartwork](gitartwork.svg) -->
 
 </div>
