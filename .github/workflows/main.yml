@@ -9,10 +9,10 @@
             runs-on: ubuntu-latest
             steps:
               - uses: actions/checkout@v3
-              - uses: rossanodr/callendarNameBanner@v1
+              - uses: rossanodr/callendarNameBanner
                 with:
                    # Use this username's contribution graph  
                    user_name: rossanodr
                    # Text on contribution graph 
                    text: rossanodr
-              - uses: rossanodr/simple-push-action@v1
+              - uses: rossanodr/simple-push-action
