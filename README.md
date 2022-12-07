@@ -14,12 +14,7 @@
 <a href = "mailto:rossanovdrs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-<<<<<<< HEAD
 <!-- ![Snake animation](https://github.com/rossanodr/rossanodr/blob/output/github-contribution-grid-snake.svg) -->
   ![gitartwork](gitartwork.svg)
-=======
-![Snake animation](https://github.com/rossanodr/rossanodr/blob/output/github-contribution-grid-snake.svg)
-  <!-- ![gitartwork](gitartwork.svg) -->
->>>>>>> 5833e1e5deaaed04c279507f8d2829f954d4481e
 
 </div>
