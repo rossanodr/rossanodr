@@ -6,10 +6,9 @@
 
 <div align="center">
   <a href="https://github.com/rossanodr">
- https://github-readme-stats.vercel.app/api?username=rossanodr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-                                                                                                                                               
+                                                                                                                                             
 </div>
+  
 ![Rossanodr's GitHub stats](https://github-readme-stats.vercel.app/api?username=rossanodr&count_private=true&show_icons=true&theme=radical)
 
 <div align="center" style="display: inline_block"><br>
