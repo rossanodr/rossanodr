@@ -8,10 +8,10 @@
   <a href="https://github.com/rossanodr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rossanodr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossanodr&layout=compact&langs_count=7&theme=dracula"/>
-                                                                                                                                               ![Rossanodr's GitHub stats](https://github-readme-stats.vercel.app/api?username=rossanodr&show_icons=true&theme=radical)
+                                                                                                                                               
 </div>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 <div align="center" style="display: inline_block"><br>
   <a href="https://instagram.com/rossanovdr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:rossanovdrs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
